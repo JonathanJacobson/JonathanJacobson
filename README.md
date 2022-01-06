@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonathanJacobson
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Advanced Java Skills
-- 💞️ I’m looking to collaborate on divrse programming projects
+- 💞️ I’m looking to collaborate on diverse programming projects
 - 📫 How to reach me - email me: jonathanjac@gmail.com
 
 <!---
